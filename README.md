@@ -38,3 +38,11 @@ Master Server
 ?
 Source code: https://github.com/KP-Wiki/MasterServer/tree/old_stable
 Hosted: master.kamremake.com and knightsprovince.com/master
+
+Scripting Editor - Dynamic script editor for KMR and KP.
+Created by @LauraRozier#9999
+Source code: https://github.com/KP-Wiki/ScriptingEditor
+
+Scripting Parser - Parser and exporter of dynamic script API for KMR and KP wiki, also for Scripting Editor.
+Created by @Krom#7629, @Lewin#8507, @LauraRozier#9999, @Rey#0074 
+Source code: moved from KMR and KP sources to https://github.com/KP-Wiki/Scripting-Parser
